@@ -1,0 +1,23 @@
+header{
+	background-image: url(images/walk.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+}
+
+nav{ 
+	background-color: rgb(21 37 72);
+}
+
+h2{
+	text-align: center;
+	background-color: #67748F;
+}
+li{ 
+	font-size: 25px;
+	color: rgb(77 136 162);
+ }
+ #id .contacts{ 
+ 	background-image: url(images/end.jpe);
+  }
+ 
